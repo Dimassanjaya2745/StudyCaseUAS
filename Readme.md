@@ -1,3 +1,6 @@
+# Dimas Aldi Sanjaya
+19.11.2745
+
 # Promos
 Aplikasi sederhana untuk study case yang diberikan dosen untuk tugas UAS. Aplikasi ini berfungsi untuk
 simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
